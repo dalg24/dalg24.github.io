@@ -9,37 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2014: Computational Scientist
+  * Oak Ridge National Laboratory
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Programming
+  * C++: expert, ISO C++ standards committee member since 2018
+* Software Development
+  * 15 years of contribution to open-source software for science
+* Languages
+  * English and German: fluent
+  * French: native
+
+Education
+======
+* Ph.D in Nuclear Engineering, Texas A&M University, USA, 2014
+* M.S. in Physics, Karlsruhe Institute of Technology, Germany, 2010
+* M.Eng. in Physics Engineering, Grenoble Institute of Technology, France, 2009
 
 Publications
 ======
@@ -53,12 +42,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Led the development and launch of the [CppCon Scientific Computing Track](https://cppcon.org/scientific-computing-track/), serving as Chair since 2022.
+* [High Performance Software Foundation (HPSF)](https://hpsf.io/about/) Governing Board: Technical Advisory Council representative.
