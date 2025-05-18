@@ -6,7 +6,7 @@ permalink: /publication/2023-09-01-paper-kokkos-openmptarget-backend
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-09-01
 venue: 'IWOMP 2023 : 19th International Workshop on OpenMP'
-paperurl: 'http://dalg24.github.io/files/2024-paper-icpp-parallel-dendogram-construction.pdf'
+paperurl: 'http://dalg24.github.io/files/2023-paper-iwomp-kokkos-openmptarget-backend-implementation-and-lessons-learned.pdf'
 citation: 'Gayatri et al. (2023). &quot;The Kokkos OpenMPTarget Backend: Implementation and Lessons Learned.&quot; <i>IWOMP 2023 : 19th International Workshop on OpenMP</i>.'
 ---
 
