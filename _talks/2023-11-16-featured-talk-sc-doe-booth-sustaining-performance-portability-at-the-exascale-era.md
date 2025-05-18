@@ -6,7 +6,7 @@ permalink: /talks/2023-11-16-featured-talk-sc-doe-booth-sustaining-performance-p
 venue: "SC23: Featured Speaker at the DOE Booth"
 date: 2023-11-16
 location: "Denver, Colorado, USA"
-slidesurl: "files/2023_slides-sc-doe-booth-featured-talk-sustaining-performance-portability-at-the-exascale-era.pdf"
+slidesurl: "files/2023-slides-sc-doe-booth-featured-talk-sustaining-performance-portability-at-the-exascale-era.pdf"
 ---
 
 Thrilled to share the Kokkos team's vision for exascale computing at
@@ -33,4 +33,4 @@ and its benefits for performance portability and software sustainability. We
 will also present the Kokkos’ team vision for a community driven future of the
 project.
 
-[Download slides](https://dalg24.github.io/files/files/2023_slides-sc-doe-booth-featured-talk-sustaining-performance-portability-at-the-exascale-era.pdf)
+[Download slides](https://dalg24.github.io/files/2023-slides-sc-doe-booth-featured-talk-sustaining-performance-portability-at-the-exascale-era.pdf)
