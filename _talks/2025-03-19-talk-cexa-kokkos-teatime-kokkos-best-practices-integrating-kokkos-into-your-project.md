@@ -19,7 +19,7 @@ for Kokkos within libraries and applications. This session aimed to equip
 developers with the tools and knowledge necessary to leverage Kokkos
 efficiently and effectively in their work.
 
-<https://cexa-project.org/news/2025-03-19-ninth-kokkos-tea-time/>
+<https://cexa-project.org/kokkos-tea-time/2025-03-19-kokkos-tea-time-kokkos-best-practices-integrating-kokkos-into-your-project/>
 
 [Download slides](https://dalg24.github.io/files/2025-cexa-kokkos-teatime-integrating-kokkos-into-your-application.pdf)
 
