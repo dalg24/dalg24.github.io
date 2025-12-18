@@ -3,10 +3,10 @@ title: "The ArborX library: version 2.0"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-21-paper-arborx-version-2
-date: 2025-10-21
+date: 2025-12-12
 venue: 'ACM Transactions on Mathematical Software (TOMS)'
 paperurl: 'https://dalg24.github.io/files/2025-paper-toms-arborx-2.pdf'
-citation: 'Prokopenko et al. (2025). &quot;The ArborX library: version 2.0.&quot; <i>ACM Transactions on Mathematical Software</i>. ??(?).'
+citation: 'Prokopenko et al. (2025). &quot;The ArborX library: version 2.0.&quot; <i>ACM Transactions on Mathematical Software</i>. 51(4).'
 ---
 
 DOI Bookmark: [10.1145/3772288](https://doi.org/10.1145/3772288)
