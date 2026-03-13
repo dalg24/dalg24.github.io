@@ -2,7 +2,7 @@
 title: "Kokkos Quo Vadis: Shaping the Future of the Ecosystem"
 collection: talks
 type: "BoF Session & Panel"
-permalink: /talks/2012-02-12-panel-cass-kokkos-quo-vadis
+permalink: /talks/2026-02-12-panel-cass-kokkos-quo-vadis
 venue: "CASS BoF Days"
 date: 2026-02-12
 location: "Oak Ridge, Tennessee, USA"
