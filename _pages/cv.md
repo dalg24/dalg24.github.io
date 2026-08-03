@@ -11,6 +11,8 @@ redirect_from:
 
 Work experience
 ======
+* Summer 2026: Computational Scientist
+  * Los Alamos National Laboratory
 * Spring 2014: Computational Scientist
   * Oak Ridge National Laboratory
   
